@@ -1,45 +1,64 @@
-<h2 align="left">Hi 👋! My name is Bernardo Gelain Dariva and I'm a Frontend Developer, from Rio Grande do Sul, Brazil.</h2>
+# Bernardo Gelain Dariva
 
-###
+Software Engineer
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bernardogelain&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bernardogelain&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+I build product interfaces with React, Next.js, and TypeScript — admin systems, commerce, and applications where state, rendering, and API contracts have to hold up in production. I work across the stack when the product needs it: Node.js, PostgreSQL, and Laravel.
 
-###
+[LinkedIn](https://www.linkedin.com/in/bernardogelaindariva/) · [Email](mailto:bernardogdariva@gmail.com)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-</div>
+## Selected work
 
-###
+**FoodShop**
+Restaurant ordering storefront. The menu, item modifiers, and brand colors come from a venue payload.
 
-<div align="left">
-  <a href="bernardogdariva@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/bernardogelaindariva/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+React, TypeScript, Vite
 
-###
+[Repository](https://github.com/BernardoGelain/foodShop)
 
-<img src="https://raw.githubusercontent.com/bernardogelain/bernardogelain/output/snake.svg" alt="Snake animation" />
+**Marcante Admin**
+Console for geolocated panels: online and offline status, a map, and panel records. The API lives in a separate service.
 
-###
+Next.js, TypeScript, NestJS, PostgreSQL
+
+[Web](https://github.com/BernardoGelain/admin-panels) · [API](https://github.com/BernardoGelain/admin-panels-backend) · [Live](https://admin-panels-chi.vercel.app)
+
+**Angling**
+Mobile UI for a fishing log: species, catch entry, rankings, and a sample feed.
+
+Expo, React Native, TypeScript
+
+[Repository](https://github.com/BernardoGelain/angling-app)
+
+**CryptoTracker**
+Market dashboard for searching coins and reading short-term price movement.
+
+Next.js, TypeScript
+
+[Repository](https://github.com/BernardoGelain/crypto-tracker) · [Live](https://gelain-crypto-tracker.vercel.app)
+
+## Experience
+
+**WEG** — Frontend Engineer · 2024–present
+Enterprise B2B product configurator. Next.js, React, TypeScript.
+
+**Softo** — Frontend Developer · 2023–2024
+Client products including iFood Carreiras, BlogTech, and Lush. SSR, SEO, and checkout flows.
+
+**Cresce Vendas** — React Developer · 2021–2023
+Whitelabel e-commerce and CRM. Next.js, TypeScript, GraphQL. Led an SSG-to-SSR migration.
+
+**Verum Digital** — React Developer · 2019–2021
+Product UI plus Laravel APIs and PostgreSQL. Cypress and React Testing Library on critical flows.
+
+## Stack
+
+| | |
+|---|---|
+| Frontend | React, Next.js, TypeScript, Tailwind CSS |
+| Backend | Node.js, Laravel, REST, GraphQL |
+| Data | PostgreSQL, Redis |
+| Quality | Jest, React Testing Library, Cypress |
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/bernardogelaindariva/) · bernardogdariva@gmail.com
