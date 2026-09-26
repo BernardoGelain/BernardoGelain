@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300" fill="none" role="img" aria-label="Bernardo Gelain Dariva, Software Engineer">
+  <rect width="960" height="300" fill="#ffffff"/>
+  <defs>
+    <linearGradient id="gridFade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0.42" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="1"/>
+    </linearGradient>
+    <mask id="gridMask">
+      <rect width="960" height="300" fill="url(#gridFade)"/>
+    </mask>
+  </defs>
+  <g mask="url(#gridMask)" stroke="#eaeef2" stroke-width="1">
+    <path d="M620 0v300M668 0v300M716 0v300M764 0v300M812 0v300M860 0v300M908 0v300M956 0v300"/>
+    <path d="M600 36h360M600 84h360M600 132h360M600 180h360M600 228h360M600 276h360"/>
+  </g>
+  <rect x="56" y="52" width="36" height="3" fill="#0969da"/>
+  <text x="56" y="128" fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" font-weight="600" letter-spacing="-1.4">BERNARDO</text>
+  <text x="56" y="190" fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" font-weight="600" letter-spacing="-1.4">GELAIN DARIVA</text>
+  <text x="56" y="230" fill="#0969da" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="3.2">SOFTWARE ENGINEER</text>
+  <text x="56" y="262" fill="#656d76" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="500">React  /  Next.js  /  TypeScript</text>
+  <g transform="translate(692,78)">
+    <rect width="212" height="148" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
+    <circle cx="18" cy="18" r="3.5" fill="#d0d7de"/>
+    <circle cx="32" cy="18" r="3.5" fill="#d0d7de"/>
+    <circle cx="46" cy="18" r="3.5" fill="#d0d7de"/>
+    <text x="16" y="52" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">
+      <tspan fill="#0969da">export</tspan>
+      <tspan fill="#1f2328"> ship</tspan>
+    </text>
+    <rect x="16" y="68" width="108" height="6" rx="3" fill="#d0d7de"/>
+    <rect x="16" y="84" width="72" height="6" rx="3" fill="#d0d7de"/>
+    <rect x="16" y="100" width="132" height="6" rx="3" fill="#eaeef2"/>
+    <rect x="16" y="116" width="7" height="13" fill="#0969da"/>
+  </g>
+</svg>
