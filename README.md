@@ -6,6 +6,18 @@
 
 <br>
 
+## About me
+
+I'm a frontend-focused Software Engineer with 5+ years of experience building production web applications with **React, Next.js, and TypeScript**.
+
+My work goes beyond UI implementation. I've worked with complex product flows, SSR and SEO, e-commerce, admin platforms, API integrations, state management, testing, and frontend architecture. I also work across the stack with **Node.js, NestJS, Laravel, and PostgreSQL** when the product requires it.
+
+I'm currently finishing my **Computer Science degree** and continuously expanding my full-stack experience, with a strong focus on building reliable products, maintaining clean architecture, and solving real product problems rather than just implementing isolated interfaces.
+
+I enjoy environments where engineering and product decisions overlap — understanding the problem, choosing the right approach, shipping it, and improving it based on real usage. I'm also comfortable working in English with international teams and distributed development environments.
+
+<br>
+
 <p align="center">
   <a href="https://linkedin.com/in/bernardogelaindariva">LinkedIn</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
@@ -29,63 +41,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BernardoGelain/BernardoGelain/output/github-contribution-grid-snake.svg" />
   <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/BernardoGelain/BernardoGelain/output/github-contribution-grid-snake.svg" />
 </picture>
-
-</div>
-
-<br>
-<br>
-
-<div align="center">
-
-<sub>EXPERIENCE</sub>
-
-<br>
-<br>
-
-**WEG** · Frontend Engineer · <sub>2024 — Present</sub><br>
-Enterprise B2B product configurator<br>
-<sub>React · Next.js · TypeScript</sub>
-
-<br>
-
-**Softo** · Frontend Developer · <sub>2023 — 2024</sub><br>
-Products for iFood, Lush and other clients<br>
-<sub>Next.js · React · TypeScript</sub>
-
-<br>
-
-**Cresce Vendas** · React Developer · <sub>2021 — 2023</sub><br>
-Whitelabel e-commerce and CRM<br>
-<sub>Next.js · TypeScript · GraphQL</sub>
-
-<br>
-
-**Verum Digital** · React Developer · <sub>2019 — 2021</sub><br>
-Web products backed by Laravel and PostgreSQL<br>
-<sub>React · Laravel · PostgreSQL</sub>
-
-<br>
-<br>
-
-<sub>SELECTED PUBLIC WORK</sub>
-
-<br>
-<br>
-
-**[FoodShop](https://github.com/BernardoGelain/foodShop)** &nbsp;·&nbsp; [Repository ↗](https://github.com/BernardoGelain/foodShop)<br>
-Whitelabel restaurant storefront · <sub>React · TypeScript · Vite</sub>
-
-<br>
-
-**[Marcante](https://admin-panels-chi.vercel.app)** &nbsp;·&nbsp; [Live](https://admin-panels-chi.vercel.app) · [Frontend](https://github.com/BernardoGelain/admin-panels) · [API](https://github.com/BernardoGelain/admin-panels-backend)<br>
-Geolocated panel management platform · <sub>Next.js · NestJS · PostgreSQL</sub>
-
-<br>
-
-[Angling ↗](https://github.com/BernardoGelain/angling-app)
-&nbsp;&nbsp;·&nbsp;&nbsp;
-[CryptoTracker ↗](https://github.com/BernardoGelain/crypto-tracker)
-&nbsp;&nbsp;·&nbsp;&nbsp;
-[Live ↗](https://gelain-crypto-tracker.vercel.app)
 
 </div>
