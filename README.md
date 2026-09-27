@@ -37,18 +37,6 @@
 
 <div align="center">
 
-<sub>SKILLS</sub>
-
-<br>
-<br>
-
-Product interfaces in React, Next.js, and TypeScript.<br>
-APIs and data with Node.js, NestJS, PostgreSQL, and Laravel.<br>
-GraphQL, SSR, and Docker when the product needs them.
-
-<br>
-<br>
-
 <sub>SELECTED PUBLIC WORK</sub>
 
 <br>
