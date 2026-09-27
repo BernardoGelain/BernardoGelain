@@ -5,7 +5,6 @@
 </picture>
 
 <br>
-<br>
 
 <p align="center">
   <a href="https://linkedin.com/in/bernardogelaindariva">LinkedIn</a>
@@ -16,13 +15,11 @@
 </p>
 
 <br>
-<br>
 
 <p align="center">
   <img alt="React, Next.js, TypeScript, Node.js, NestJS, PostgreSQL, Laravel, Docker" src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,nestjs,postgres,laravel,docker&perline=8" />
 </p>
 
-<br>
 <br>
 
 <div align="center">
@@ -37,42 +34,18 @@
 
 <br>
 <br>
-<br>
 
 <div align="center">
 
-<sub>EXPERIENCE</sub>
+<sub>SKILLS</sub>
 
 <br>
 <br>
 
-**WEG** &nbsp;&nbsp;<sub>2024 — Present</sub><br>
-Frontend Engineer<br>
-Enterprise B2B product configurator<br>
-<sub>React · Next.js · TypeScript</sub>
+Product interfaces in React, Next.js, and TypeScript.<br>
+APIs and data with Node.js, NestJS, PostgreSQL, and Laravel.<br>
+GraphQL, SSR, and Docker when the product needs them.
 
-<br>
-<br>
-
-**Softo** &nbsp;&nbsp;<sub>2023 — 2024</sub><br>
-Frontend Developer<br>
-Client products including iFood Carreiras, BlogTech, and Lush<br>
-<sub>Next.js · React · TypeScript · SSR · SEO</sub>
-
-<br>
-<br>
-
-**Cresce Vendas** &nbsp;·&nbsp; React Developer &nbsp;<sub>2021 — 2023</sub><br>
-Whitelabel e-commerce and CRM. SSG to SSR migration.<br>
-<sub>Next.js · TypeScript · GraphQL</sub>
-
-<br>
-
-**Verum Digital** &nbsp;·&nbsp; React Developer &nbsp;<sub>2019 — 2021</sub><br>
-Product interfaces backed by Laravel APIs and PostgreSQL<br>
-<sub>React · Laravel · PostgreSQL</sub>
-
-<br>
 <br>
 <br>
 
@@ -82,17 +55,13 @@ Product interfaces backed by Laravel APIs and PostgreSQL<br>
 <br>
 
 **[FoodShop](https://github.com/BernardoGelain/foodShop)** &nbsp;·&nbsp; [Repository ↗](https://github.com/BernardoGelain/foodShop)<br>
-Whitelabel restaurant storefront<br>
-<sub>React · TypeScript · Vite</sub>
+Whitelabel restaurant storefront · <sub>React · TypeScript · Vite</sub>
 
-<br>
 <br>
 
 **[Marcante](https://admin-panels-chi.vercel.app)** &nbsp;·&nbsp; [Live](https://admin-panels-chi.vercel.app) · [Frontend](https://github.com/BernardoGelain/admin-panels) · [API](https://github.com/BernardoGelain/admin-panels-backend)<br>
-Geolocated panel management platform<br>
-<sub>Next.js · NestJS · PostgreSQL</sub>
+Geolocated panel management platform · <sub>Next.js · NestJS · PostgreSQL</sub>
 
-<br>
 <br>
 
 [Angling ↗](https://github.com/BernardoGelain/angling-app)
